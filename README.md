@@ -1,5 +1,7 @@
 # Chronos
 
+Production version is hosted at: http://www.chronosti.me/
+
 To run the project in Eclipse:
 -Right click the project and go to Properties
 -In "Java Build Path", in the libraries tab, remove the JAR file that starts with "mysql-connector-java".
